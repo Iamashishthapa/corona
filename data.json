@@ -1,0 +1,1003 @@
+{
+ "Country": [
+  {
+   "name": "World",
+   "cases": "1,274,578",
+   "deaths": "69,487"
+  },
+  {
+   "name": "USA",
+   "cases": "336,830",
+   "deaths": "9,618"
+  },
+  {
+   "name": "Spain",
+   "cases": "131,646",
+   "deaths": "12,641"
+  },
+  {
+   "name": "Italy",
+   "cases": "128,948",
+   "deaths": "15,887"
+  },
+  {
+   "name": "Germany",
+   "cases": "100,123",
+   "deaths": "1,584"
+  },
+  {
+   "name": "France",
+   "cases": "92,839",
+   "deaths": "8,078"
+  },
+  {
+   "name": "China",
+   "cases": "81,708",
+   "deaths": "3,331"
+  },
+  {
+   "name": "Iran",
+   "cases": "58,226",
+   "deaths": "3,603"
+  },
+  {
+   "name": "UK",
+   "cases": "47,806",
+   "deaths": "4,934"
+  },
+  {
+   "name": "Turkey",
+   "cases": "27,069",
+   "deaths": "574"
+  },
+  {
+   "name": "Switzerland",
+   "cases": "21,100",
+   "deaths": "715"
+  },
+  {
+   "name": "Belgium",
+   "cases": "19,691",
+   "deaths": "1,447"
+  },
+  {
+   "name": "Netherlands",
+   "cases": "17,851",
+   "deaths": "1,766"
+  },
+  {
+   "name": "Canada",
+   "cases": "15,512",
+   "deaths": "280"
+  },
+  {
+   "name": "Austria",
+   "cases": "12,051",
+   "deaths": "204"
+  },
+  {
+   "name": "Brazil",
+   "cases": "11,281",
+   "deaths": "487"
+  },
+  {
+   "name": "Portugal",
+   "cases": "11,278",
+   "deaths": "295"
+  },
+  {
+   "name": "S. Korea",
+   "cases": "10,284",
+   "deaths": "186"
+  },
+  {
+   "name": "Israel",
+   "cases": "8,611",
+   "deaths": "51"
+  },
+  {
+   "name": "Sweden",
+   "cases": "6,830",
+   "deaths": "401"
+  },
+  {
+   "name": "Australia",
+   "cases": "5,788",
+   "deaths": "39"
+  },
+  {
+   "name": "Norway",
+   "cases": "5,759",
+   "deaths": "71"
+  },
+  {
+   "name": "Russia",
+   "cases": "5,389",
+   "deaths": "45"
+  },
+  {
+   "name": "Ireland",
+   "cases": "4,994",
+   "deaths": "158"
+  },
+  {
+   "name": "Czechia",
+   "cases": "4,587",
+   "deaths": "67"
+  },
+  {
+   "name": "Chile",
+   "cases": "4,471",
+   "deaths": "34"
+  },
+  {
+   "name": "Denmark",
+   "cases": "4,369",
+   "deaths": "179"
+  },
+  {
+   "name": "India",
+   "cases": "4,314",
+   "deaths": "118"
+  },
+  {
+   "name": "Poland",
+   "cases": "4,102",
+   "deaths": "94"
+  },
+  {
+   "name": "Romania",
+   "cases": "3,864",
+   "deaths": "156"
+  },
+  {
+   "name": "Malaysia",
+   "cases": "3,662",
+   "deaths": "61"
+  },
+  {
+   "name": "Japan",
+   "cases": "3,654",
+   "deaths": "85"
+  },
+  {
+   "name": "Ecuador",
+   "cases": "3,646",
+   "deaths": "180"
+  },
+  {
+   "name": "Philippines",
+   "cases": "3,414",
+   "deaths": "152"
+  },
+  {
+   "name": "Pakistan",
+   "cases": "3,277",
+   "deaths": "50"
+  },
+  {
+   "name": "Luxembourg",
+   "cases": "2,804",
+   "deaths": "36"
+  },
+  {
+   "name": "Saudi Arabia",
+   "cases": "2,402",
+   "deaths": "34"
+  },
+  {
+   "name": "Peru",
+   "cases": "2,281",
+   "deaths": "83"
+  },
+  {
+   "name": "Indonesia",
+   "cases": "2,273",
+   "deaths": "198"
+  },
+  {
+   "name": "Thailand",
+   "cases": "2,220",
+   "deaths": "26"
+  },
+  {
+   "name": "Mexico",
+   "cases": "2,143",
+   "deaths": "94"
+  },
+  {
+   "name": "Panama",
+   "cases": "1,988",
+   "deaths": "54"
+  },
+  {
+   "name": "Finland",
+   "cases": "1,927",
+   "deaths": "28"
+  },
+  {
+   "name": "Serbia",
+   "cases": "1,908",
+   "deaths": "51"
+  },
+  {
+   "name": "UAE",
+   "cases": "1,799",
+   "deaths": "10"
+  },
+  {
+   "name": "Dominican Republic",
+   "cases": "1,745",
+   "deaths": "82"
+  },
+  {
+   "name": "Greece",
+   "cases": "1,735",
+   "deaths": "73"
+  },
+  {
+   "name": "South Africa",
+   "cases": "1,655",
+   "deaths": "11"
+  },
+  {
+   "name": "Qatar",
+   "cases": "1,604",
+   "deaths": "4"
+  },
+  {
+   "name": "Argentina",
+   "cases": "1,554",
+   "deaths": "46"
+  },
+  {
+   "name": "Iceland",
+   "cases": "1,486",
+   "deaths": "4"
+  },
+  {
+   "name": "Colombia",
+   "cases": "1,485",
+   "deaths": "35"
+  },
+  {
+   "name": "Algeria",
+   "cases": "1,320",
+   "deaths": "152"
+  },
+  {
+   "name": "Singapore",
+   "cases": "1,309",
+   "deaths": "6"
+  },
+  {
+   "name": "Ukraine",
+   "cases": "1,308",
+   "deaths": "37"
+  },
+  {
+   "name": "Croatia",
+   "cases": "1,182",
+   "deaths": "15"
+  },
+  {
+   "name": "Egypt",
+   "cases": "1,173",
+   "deaths": "78"
+  },
+  {
+   "name": "New Zealand",
+   "cases": "1,106",
+   "deaths": "1"
+  },
+  {
+   "name": "Estonia",
+   "cases": "1,097",
+   "deaths": "15"
+  },
+  {
+   "name": "Morocco",
+   "cases": "1,021",
+   "deaths": "70"
+  },
+  {
+   "name": "Slovenia",
+   "cases": "997",
+   "deaths": "28"
+  },
+  {
+   "name": "Iraq",
+   "cases": "961",
+   "deaths": "61"
+  },
+  {
+   "name": "Hong Kong",
+   "cases": "891",
+   "deaths": "4"
+  },
+  {
+   "name": "Moldova",
+   "cases": "864",
+   "deaths": "15"
+  },
+  {
+   "name": "Lithuania",
+   "cases": "843",
+   "deaths": "14"
+  },
+  {
+   "name": "Armenia",
+   "cases": "822",
+   "deaths": "7"
+  },
+  {
+   "name": "Hungary",
+   "cases": "744",
+   "deaths": "38"
+  },
+  {
+   "name": "Diamond Princess",
+   "cases": "712",
+   "deaths": "11"
+  },
+  {
+   "name": "Bahrain",
+   "cases": "700",
+   "deaths": "4"
+  },
+  {
+   "name": "Bosnia and Herzegovina",
+   "cases": "654",
+   "deaths": "23"
+  },
+  {
+   "name": "Cameroon",
+   "cases": "650",
+   "deaths": "9"
+  },
+  {
+   "name": "Azerbaijan",
+   "cases": "584",
+   "deaths": "7"
+  },
+  {
+   "name": "Kazakhstan",
+   "cases": "584",
+   "deaths": "6"
+  },
+  {
+   "name": "Tunisia",
+   "cases": "574",
+   "deaths": "22"
+  },
+  {
+   "name": "Belarus",
+   "cases": "562",
+   "deaths": "8"
+  },
+  {
+   "name": "Kuwait",
+   "cases": "556",
+   "deaths": "1"
+  },
+  {
+   "name": "North Macedonia",
+   "cases": "555",
+   "deaths": "18"
+  },
+  {
+   "name": "Bulgaria",
+   "cases": "541",
+   "deaths": "21"
+  },
+  {
+   "name": "Latvia",
+   "cases": "533",
+   "deaths": "1"
+  },
+  {
+   "name": "Lebanon",
+   "cases": "527",
+   "deaths": "18"
+  },
+  {
+   "name": "Andorra",
+   "cases": "501",
+   "deaths": "18"
+  },
+  {
+   "name": "Slovakia",
+   "cases": "485",
+   "deaths": "1"
+  },
+  {
+   "name": "Costa Rica",
+   "cases": "454",
+   "deaths": "2"
+  },
+  {
+   "name": "Cyprus",
+   "cases": "446",
+   "deaths": "9"
+  },
+  {
+   "name": "Uruguay",
+   "cases": "406",
+   "deaths": "6"
+  },
+  {
+   "name": "Uzbekistan",
+   "cases": "390",
+   "deaths": "2"
+  },
+  {
+   "name": "Afghanistan",
+   "cases": "367",
+   "deaths": "7"
+  },
+  {
+   "name": "Taiwan",
+   "cases": "363",
+   "deaths": "5"
+  },
+  {
+   "name": "Albania",
+   "cases": "361",
+   "deaths": "20"
+  },
+  {
+   "name": "Burkina Faso",
+   "cases": "345",
+   "deaths": "17"
+  },
+  {
+   "name": "Jordan",
+   "cases": "345",
+   "deaths": "5"
+  },
+  {
+   "name": "Réunion",
+   "cases": "344"
+  },
+  {
+   "name": "Cuba",
+   "cases": "320",
+   "deaths": "8"
+  },
+  {
+   "name": "Channel Islands",
+   "cases": "309",
+   "deaths": "6"
+  },
+  {
+   "name": "Honduras",
+   "cases": "298",
+   "deaths": "22"
+  },
+  {
+   "name": "Oman",
+   "cases": "298",
+   "deaths": "2"
+  },
+  {
+   "name": "San Marino",
+   "cases": "266",
+   "deaths": "32"
+  },
+  {
+   "name": "Ivory Coast",
+   "cases": "261",
+   "deaths": "3"
+  },
+  {
+   "name": "Vietnam",
+   "cases": "241"
+  },
+  {
+   "name": "Palestine",
+   "cases": "237",
+   "deaths": "1"
+  },
+  {
+   "name": "Nigeria",
+   "cases": "232",
+   "deaths": "5"
+  },
+  {
+   "name": "Mauritius",
+   "cases": "227",
+   "deaths": "7"
+  },
+  {
+   "name": "Malta",
+   "cases": "227"
+  },
+  {
+   "name": "Senegal",
+   "cases": "222",
+   "deaths": "2"
+  },
+  {
+   "name": "Kyrgyzstan",
+   "cases": "216",
+   "deaths": "4"
+  },
+  {
+   "name": "Ghana",
+   "cases": "214",
+   "deaths": "5"
+  },
+  {
+   "name": "Montenegro",
+   "cases": "214",
+   "deaths": "2"
+  },
+  {
+   "name": "Niger",
+   "cases": "184",
+   "deaths": "10"
+  },
+  {
+   "name": "Bolivia",
+   "cases": "183",
+   "deaths": "11"
+  },
+  {
+   "name": "Faeroe Islands",
+   "cases": "181"
+  },
+  {
+   "name": "Sri Lanka",
+   "cases": "176",
+   "deaths": "5"
+  },
+  {
+   "name": "Georgia",
+   "cases": "174",
+   "deaths": "2"
+  },
+  {
+   "name": "Venezuela",
+   "cases": "159",
+   "deaths": "7"
+  },
+  {
+   "name": "DRC",
+   "cases": "154",
+   "deaths": "18"
+  },
+  {
+   "name": "Martinique",
+   "cases": "149",
+   "deaths": "4"
+  },
+  {
+   "name": "Mayotte",
+   "cases": "147",
+   "deaths": "2"
+  },
+  {
+   "name": "Kenya",
+   "cases": "142",
+   "deaths": "4"
+  },
+  {
+   "name": "Guadeloupe",
+   "cases": "135",
+   "deaths": "7"
+  },
+  {
+   "name": "Brunei",
+   "cases": "135",
+   "deaths": "1"
+  },
+  {
+   "name": "Isle of Man",
+   "cases": "127",
+   "deaths": "1"
+  },
+  {
+   "name": "Guinea",
+   "cases": "121"
+  },
+  {
+   "name": "Cambodia",
+   "cases": "114"
+  },
+  {
+   "name": "Paraguay",
+   "cases": "113",
+   "deaths": "5"
+  },
+  {
+   "name": "Trinidad and Tobago",
+   "cases": "105",
+   "deaths": "7"
+  },
+  {
+   "name": "Rwanda",
+   "cases": "104"
+  },
+  {
+   "name": "Gibraltar",
+   "cases": "103"
+  },
+  {
+   "name": "Bangladesh",
+   "cases": "88",
+   "deaths": "10"
+  },
+  {
+   "name": "Liechtenstein",
+   "cases": "77",
+   "deaths": "1"
+  },
+  {
+   "name": "Monaco",
+   "cases": "73",
+   "deaths": "1"
+  },
+  {
+   "name": "Madagascar",
+   "cases": "72"
+  },
+  {
+   "name": "Guatemala",
+   "cases": "70",
+   "deaths": "3"
+  },
+  {
+   "name": "El Salvador",
+   "cases": "69",
+   "deaths": "3"
+  },
+  {
+   "name": "French Guiana",
+   "cases": "68"
+  },
+  {
+   "name": "Aruba",
+   "cases": "64"
+  },
+  {
+   "name": "Djibouti",
+   "cases": "59"
+  },
+  {
+   "name": "Jamaica",
+   "cases": "58",
+   "deaths": "3"
+  },
+  {
+   "name": "Barbados",
+   "cases": "56",
+   "deaths": "1"
+  },
+  {
+   "name": "Uganda",
+   "cases": "52"
+  },
+  {
+   "name": "Congo",
+   "cases": "45",
+   "deaths": "5"
+  },
+  {
+   "name": "Mali",
+   "cases": "45",
+   "deaths": "5"
+  },
+  {
+   "name": "Togo",
+   "cases": "44",
+   "deaths": "3"
+  },
+  {
+   "name": "Macao",
+   "cases": "44"
+  },
+  {
+   "name": "Ethiopia",
+   "cases": "43",
+   "deaths": "2"
+  },
+  {
+   "name": "French Polynesia",
+   "cases": "41"
+  },
+  {
+   "name": "Cayman Islands",
+   "cases": "39",
+   "deaths": "1"
+  },
+  {
+   "name": "Zambia",
+   "cases": "39",
+   "deaths": "1"
+  },
+  {
+   "name": "Sint Maarten",
+   "cases": "37",
+   "deaths": "6"
+  },
+  {
+   "name": "Bermuda",
+   "cases": "37"
+  },
+  {
+   "name": "Saint Martin",
+   "cases": "32",
+   "deaths": "2"
+  },
+  {
+   "name": "Bahamas",
+   "cases": "29",
+   "deaths": "5"
+  },
+  {
+   "name": "Guyana",
+   "cases": "29",
+   "deaths": "4"
+  },
+  {
+   "name": "Eritrea",
+   "cases": "29"
+  },
+  {
+   "name": "Gabon",
+   "cases": "24",
+   "deaths": "1"
+  },
+  {
+   "name": "Tanzania",
+   "cases": "22",
+   "deaths": "1"
+  },
+  {
+   "name": "Benin",
+   "cases": "22"
+  },
+  {
+   "name": "Haiti",
+   "cases": "21",
+   "deaths": "1"
+  },
+  {
+   "name": "Myanmar",
+   "cases": "21",
+   "deaths": "1"
+  },
+  {
+   "name": "Syria",
+   "cases": "19",
+   "deaths": "2"
+  },
+  {
+   "name": "Maldives",
+   "cases": "19"
+  },
+  {
+   "name": "Libya",
+   "cases": "18",
+   "deaths": "1"
+  },
+  {
+   "name": "Guinea-Bissau",
+   "cases": "18"
+  },
+  {
+   "name": "New Caledonia",
+   "cases": "18"
+  },
+  {
+   "name": "Equatorial Guinea",
+   "cases": "16"
+  },
+  {
+   "name": "Namibia",
+   "cases": "16"
+  },
+  {
+   "name": "Antigua and Barbuda",
+   "cases": "15"
+  },
+  {
+   "name": "Mongolia",
+   "cases": "15"
+  },
+  {
+   "name": "Angola",
+   "cases": "14",
+   "deaths": "2"
+  },
+  {
+   "name": "Dominica",
+   "cases": "14"
+  },
+  {
+   "name": "Fiji",
+   "cases": "14"
+  },
+  {
+   "name": "Saint Lucia",
+   "cases": "14"
+  },
+  {
+   "name": "Liberia",
+   "cases": "13",
+   "deaths": "3"
+  },
+  {
+   "name": "Sudan",
+   "cases": "12",
+   "deaths": "2"
+  },
+  {
+   "name": "Grenada",
+   "cases": "12"
+  },
+  {
+   "name": "Curaçao",
+   "cases": "11",
+   "deaths": "1"
+  },
+  {
+   "name": "Greenland",
+   "cases": "11"
+  },
+  {
+   "name": "Laos",
+   "cases": "11"
+  },
+  {
+   "name": "Suriname",
+   "cases": "10",
+   "deaths": "1"
+  },
+  {
+   "name": "Mozambique",
+   "cases": "10"
+  },
+  {
+   "name": "Saint Kitts and Nevis",
+   "cases": "10"
+  },
+  {
+   "name": "Seychelles",
+   "cases": "10"
+  },
+  {
+   "name": "MS Zaandam",
+   "cases": "9",
+   "deaths": "2"
+  },
+  {
+   "name": "Zimbabwe",
+   "cases": "9",
+   "deaths": "1"
+  },
+  {
+   "name": "Nepal",
+   "cases": "9"
+  },
+  {
+   "name": "Chad",
+   "cases": "9"
+  },
+  {
+   "name": "Eswatini",
+   "cases": "9"
+  },
+  {
+   "name": "CAR",
+   "cases": "8"
+  },
+  {
+   "name": "Cabo Verde",
+   "cases": "7",
+   "deaths": "1"
+  },
+  {
+   "name": "Vatican City",
+   "cases": "7"
+  },
+  {
+   "name": "St. Vincent Grenadines",
+   "cases": "7"
+  },
+  {
+   "name": "Somalia",
+   "cases": "7"
+  },
+  {
+   "name": "Botswana",
+   "cases": "6",
+   "deaths": "1"
+  },
+  {
+   "name": "Mauritania",
+   "cases": "6",
+   "deaths": "1"
+  },
+  {
+   "name": "Nicaragua",
+   "cases": "6",
+   "deaths": "1"
+  },
+  {
+   "name": "Montserrat",
+   "cases": "6"
+  },
+  {
+   "name": "St. Barth",
+   "cases": "6"
+  },
+  {
+   "name": "Sierra Leone",
+   "cases": "6"
+  },
+  {
+   "name": "Belize",
+   "cases": "5",
+   "deaths": "1"
+  },
+  {
+   "name": "Turks and Caicos",
+   "cases": "5",
+   "deaths": "1"
+  },
+  {
+   "name": "Bhutan",
+   "cases": "5"
+  },
+  {
+   "name": "Gambia",
+   "cases": "4",
+   "deaths": "1"
+  },
+  {
+   "name": "Malawi",
+   "cases": "4"
+  },
+  {
+   "name": "Western Sahara",
+   "cases": "4"
+  },
+  {
+   "name": "Anguilla",
+   "cases": "3"
+  },
+  {
+   "name": "British Virgin Islands",
+   "cases": "3"
+  },
+  {
+   "name": "Burundi",
+   "cases": "3"
+  },
+  {
+   "name": "Caribbean Netherlands",
+   "cases": "2"
+  },
+  {
+   "name": "Falkland Islands",
+   "cases": "2"
+  },
+  {
+   "name": "Papua New Guinea",
+   "cases": "1"
+  },
+  {
+   "name": "Saint Pierre Miquelon",
+   "cases": "1"
+  },
+  {
+   "name": "South Sudan",
+   "cases": "1"
+  },
+  {
+   "name": "Timor-Leste",
+   "cases": "1"
+  }
+ ]
+}
