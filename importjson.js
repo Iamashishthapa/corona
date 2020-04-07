@@ -1,15 +1,10 @@
-fetch("https://covid-193.p.rapidapi.com/statistics", {
-	"method": "GET",
-	"headers": {
-		"x-rapidapi-host": "covid-193.p.rapidapi.com",
-		"x-rapidapi-key": "aec81745e7msh280ed132fb4096bp1e6b21jsn46e6828b7f18"
-	}
-})
+let url="https://www.parsehub.com/api/v2/projects/tsd0Wcqini4G/last_ready_run/data",qs="tSL33T8L8PG3";
+fetch(url + qs)
 .then(response => {
 	//console.log(response);
     return response.json();
 })
-.then(function(data){
+.then(data => {
     let ram=JSON.stringify(data);
     document.getElementById("write").innerHTML = ram;
 })
